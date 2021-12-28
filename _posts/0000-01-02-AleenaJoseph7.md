@@ -2,7 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Follow ur own path
 Use the left arrow to go back!
 
-Follow ur own path
